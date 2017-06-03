@@ -1,0 +1,12 @@
+c:\users\prasanna\documents\visual studio 2017\Projects\Properties\Properties\bin\Debug\Properties.exe.config
+c:\users\prasanna\documents\visual studio 2017\Projects\Properties\Properties\bin\Debug\Properties.exe
+c:\users\prasanna\documents\visual studio 2017\Projects\Properties\Properties\bin\Debug\Properties.pdb
+c:\users\prasanna\documents\visual studio 2017\Projects\Properties\Properties\obj\Debug\Properties.csprojResolveAssemblyReference.cache
+c:\users\prasanna\documents\visual studio 2017\Projects\Properties\Properties\obj\Debug\Properties.exe
+c:\users\prasanna\documents\visual studio 2017\Projects\Properties\Properties\obj\Debug\Properties.pdb
+C:\exercises\Properties\Properties\bin\Debug\Properties.exe.config
+C:\exercises\Properties\Properties\bin\Debug\Properties.exe
+C:\exercises\Properties\Properties\bin\Debug\Properties.pdb
+C:\exercises\Properties\Properties\obj\Debug\Properties.csprojResolveAssemblyReference.cache
+C:\exercises\Properties\Properties\obj\Debug\Properties.exe
+C:\exercises\Properties\Properties\obj\Debug\Properties.pdb
